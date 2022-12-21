@@ -1,0 +1,8 @@
+C:\Users\lucas\Desktop\Projetos\football-player\football-player\obj\Debug\football-player.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Projetos\football-player\football-player\obj\Debug\football-player.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\Projetos\football-player\football-player\obj\Debug\football-player.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Projetos\football-player\football-player\bin\Debug\football-player.exe.config
+C:\Users\lucas\Desktop\Projetos\football-player\football-player\bin\Debug\football-player.exe
+C:\Users\lucas\Desktop\Projetos\football-player\football-player\bin\Debug\football-player.pdb
+C:\Users\lucas\Desktop\Projetos\football-player\football-player\obj\Debug\football-player.exe
+C:\Users\lucas\Desktop\Projetos\football-player\football-player\obj\Debug\football-player.pdb
