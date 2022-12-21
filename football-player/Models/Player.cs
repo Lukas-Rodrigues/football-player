@@ -12,7 +12,7 @@ namespace football_player.Models
         public string Name { get; set; }
         public string Position { get; set;}
         public DateTime? DateTime { get; set; }
-        public float  Altura  { get; set; }
+        public float Altura { get; set; }
         public float Peso { get; set; }
 
      
